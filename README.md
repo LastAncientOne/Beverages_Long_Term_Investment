@@ -10,7 +10,9 @@ Use accountant statements, excel, python, and Microsoft Azure Machine Learning S
 
 # Prerequistes
 Python 3.5+
+
 Jupyter Notebook Python 3
+
 Excel 2016
 
 ## Authors

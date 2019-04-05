@@ -1,4 +1,4 @@
-# Stock-Long-Term
+# Beverages Long Term Investment
 This a project of long term investment and see which soda beverages is a good long term investment.
 
 Stocks: DPS - Dr. Pepper

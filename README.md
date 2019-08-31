@@ -15,6 +15,8 @@ Jupyter Notebook Python 3
 
 Excel 2016
 
+Power BI
+
 ## Authors
 * Tin Hang
 

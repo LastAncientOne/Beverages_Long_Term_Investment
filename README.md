@@ -2,7 +2,7 @@
 
 # Beverages Long Term Investment
 ### Description:
-#### This a project of long term investment and see which soda beverages is a good long term investment. Analyzing historical data and calculate performance measurements, back-testing, forecasting, and using Capital Asset Pricing Model. Finding stock with lowest risks with highest returns.  
+#### This a project of long term investment and see which soda beverages is a good long term investment. Analyzing historical data (5 years) and calculate performance measurements, back-testing, forecasting, and using Capital Asset Pricing Model. Finding stock with lowest risks with highest returns.  
 
 #### Stocks: DPS - Dr. Pepper
 ####        KO - Coca-Cola

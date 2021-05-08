@@ -4,9 +4,10 @@
 ### Description:
 #### This a project of long term investment and see which soda beverages is a good long term investment. Analyzing historical data (5 years) and calculate performance measurements, back-testing, forecasting, and using Capital Asset Pricing Model. Testing different trading strategies. Finding stock with lowest risks with highest returns.  
 
-#### Stocks: DPS - Dr. Pepper
-####        KO - Coca-Cola
-####        PEP - Pepsi
+#### Stocks: 
+#### DPS - Dr. Pepper
+#### KO - Coca-Cola
+#### PEP - Pepsi
         
 #### Use accountant statements, excel, python, and Microsoft Azure Machine Learning Studio for Stocks Analysis
 

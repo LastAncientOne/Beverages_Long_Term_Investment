@@ -13,6 +13,8 @@
 
 
 # Prerequistes
+#### Microsoft Azure Machine Learning Studio  
+
 #### Python 3.5+
 
 #### Jupyter Notebook Python 3

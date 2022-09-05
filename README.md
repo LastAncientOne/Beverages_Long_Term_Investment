@@ -9,7 +9,7 @@
 #### KO - Coca-Cola
 #### PEP - Pepsi
         
-#### Use accountant statements and historical price in excel, python, and Microsoft Azure Machine Learning Studio for Stocks Analysis
+#### Use accountant statements and historical price in Excel, python, and Microsoft Azure Machine Learning Studio for Stocks Analysis
 
 
 # Prerequistes

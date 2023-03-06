@@ -1,4 +1,6 @@
-<align="center", img src="Soda.PNG">
+<p align="center">
+        <img src="Soda.PNG">
+</p>       
 <h1 align="center">Beverages Long Term Investment</h1>
 
 ### Description:

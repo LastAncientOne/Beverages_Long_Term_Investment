@@ -26,8 +26,8 @@
 
 #### Power BI  
 
-## Authors  
-### * Tin Hang  
+## Author:  
+### Tin Hang  
 
 ## Disclaimer
 ## 🔴 This is not get rich quick.  

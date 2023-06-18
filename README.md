@@ -30,8 +30,5 @@
 ### Tin Hang  
 
 ## Disclaimer
-## 🔴 This is not get rich quick.  
-## 🔴 This is not financial advisor.   
-## 🔴 This is for researching and educational purposes.  
-### This is not financial advisor. Do your own research. Do not use this code for investing or trading in the stock market. However, if you are interest in the stock market, you should read books investment, trading, stock market, and finance. Consult a professional investment advisor before making any investment decisions. This educational purposes.  
+## 🔴 This is not a financial advisor. Please conduct your own research. Do not use this code for investing or trading in the stock market. However, if you are interested in the stock market, you should read books on investment, trading, the stock market, and finance. Consult a professional investment advisor before making any investment decisions. This is for educational purposes.   
 

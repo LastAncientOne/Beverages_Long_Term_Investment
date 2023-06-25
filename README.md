@@ -4,7 +4,7 @@
 <h1 align="center">Beverages Long Term Investment</h1>
 
 ### Description:
-#### This a project of long term investment and see which soda beverages is a good long term investment. Analyzing historical data (5 years) and calculate performance measurements, back-testing, forecasting, and using Capital Asset Pricing Model. Testing different trading strategies. Finding stock with lowest risks with highest returns.  
+#### This is a project for long-term investment to determine which soda beverages are good long-term investments. It involves analyzing historical data spanning five years and calculating performance measurements, conducting back-testing, forecasting, and utilizing the Capital Asset Pricing Model. The project also includes testing various trading strategies and identifying stocks with the lowest risks and highest returns.  
 
 ### Stock Tickers: 
 #### DPS - Dr. Pepper

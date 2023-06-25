@@ -30,5 +30,5 @@
 ### Tin Hang  
 
 ## Disclaimer
-## 🔴 This is not a financial advisor. Please conduct your own research. Do not use this code for investing or trading in the stock market. However, if you are interested in the stock market, you should read books on investment, trading, the stock market, and finance. Consult a professional investment advisor before making any investment decisions. This is for educational purposes.   
+## 🔴 This is not financial advice. Please conduct your own research and do not use this code for investing or trading in the stock market. However, if you are interested in the stock market, it is recommended that you read books on investment, trading, the stock market, and finance. It is always advisable to consult a professional investment advisor before making any investment decisions. Remember, this information is provided for educational purposes only.
 
